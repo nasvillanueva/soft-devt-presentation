@@ -1,0 +1,12 @@
+{
+  "name": "soft-devt-presentation",
+  "version": "1.0.0",
+  "description": "Software Development Tools slides.",
+  "main": "index.js",
+  "repository": "https://github.com/nasvillanueva/soft-devt-presentation",
+  "author": "Jonas Manuel Villanueva <nasvillanuevait@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
