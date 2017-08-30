@@ -49,7 +49,7 @@ $ git add .
 # 5. Commit
 $ git commit -m "Fixed X"
 # 6. Push
-$ git push
+$ git push origin
 # 7. GOTO 3;
 ```
 
