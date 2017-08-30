@@ -10,7 +10,7 @@
 > developers can turn back the clock and compare earlier versions
 > of the code to help fix the mistake...
 >
-> &mdash; <cite>[Attlassian Tutorials](https://atlassian.com/git/tutorials/what-is-version-control)</cite>
+> &mdash; <cite>[Atlassian Tutorials](https://atlassian.com/git/tutorials/what-is-version-control)</cite>
 
 
 
@@ -62,3 +62,12 @@ $ git push origin
 - [GitHub](https://github.com)
 - [GitLab](https://gitlab.com)
 - [BitBucket](https://bitbucket.org)
+
+
+
+
+## Why use it?
+
+- Multiple people can work simultaneously
+- Form of backup and never having to deal with Project-20170830.zip, Projet-20170830.zip, etc..
+- For some: Never having to deal with "Kinain ng virus sa Bursal ung thesis ko :("
