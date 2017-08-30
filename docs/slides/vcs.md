@@ -69,5 +69,5 @@ $ git push origin
 ## Why use it?
 
 - Multiple people can work simultaneously
-- Form of backup and never having to deal with Project-20170830.zip, Project-20170830.zip, etc..
+- Form of backup and never having to deal with Project-20170830.zip, Project-20170831.zip, etc..
 - For some: Never having to deal with "Kinain ng virus sa Bursal yung thesis ko :("
