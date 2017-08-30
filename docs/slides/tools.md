@@ -1,8 +1,7 @@
 ## Software Development Tools
 
 - Version Control System (VCS)
-- Continuous Integration (CI)
-- Continuous Deployment (CD)
+- Continuous Integration / Continuous Deployment (CI/CD) 
 - Application Stack
     - Front end
     - Back end
