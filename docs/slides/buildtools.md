@@ -17,7 +17,6 @@
 
 ### What we (or most people) use
 
-Java
 - [Apache Maven](https://maven.apache.org/)
 - [Gradle](https://gradle.org/)
 
