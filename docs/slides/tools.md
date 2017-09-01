@@ -7,7 +7,6 @@
     - Front end
     - Back end
 - Container
-- Platform / Infrastructure
 
 
 
