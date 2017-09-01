@@ -1,15 +1,20 @@
 package io.github.nasvillanueva.springdemo.dto;
 
-import java.math.BigInteger;
-
 public class MathResponse {
-    private BigInteger answer;
+    private int answer;
 
-    public BigInteger getAnswer() {
+    public MathResponse(int answer) {
+        this.answer = answer;
+    }
+
+    public MathResponse() {
+    }
+
+    public int getAnswer() {
         return answer;
     }
 
-    public void setAnswer(BigInteger answer) {
+    public void setAnswer(int answer) {
         this.answer = answer;
     }
 }

@@ -3,8 +3,8 @@ package io.github.nasvillanueva.springdemo.dto;
 import io.github.nasvillanueva.springdemo.constants.MathOperation;
 
 public class MathRequest {
-    private int x;
-    private int y;
+    private int x = 0;
+    private int y = 0;
     private MathOperation op;
 
     public int getX() {
