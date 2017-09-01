@@ -28,4 +28,31 @@
 
 
 
- 
+
+## What we use
+
+- [Jenkins](https://jenkins.io/)
+- [JetBrains TeamCity](https://www.jetbrains.com/teamcity/)
+
+<br>
+
+### Alternatives
+
+- [CircleCI](https://circleci.com/)
+- [TravisCI](https://travis-ci.org/)
+- [GitLab CI/CD](https://about.gitlab.com/features/gitlab-ci-cd/)
+- etc..
+
+
+
+
+## How to use it
+
+Demo Later
+
+
+
+
+## Why use it?
+
+![Automate All The Things](images/automate-all-the-things.jpg)
