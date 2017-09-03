@@ -18,7 +18,7 @@ public class DemoResource {
 
     @GetMapping("/hello-world")
     public ResponseEntity<String> helloWorld() {
-        return ResponseEntity.ok("Hello World!");
+        return ResponseEntity.ok("Hello PLV!");
     }
 
     @PostMapping("/math")
