@@ -17,8 +17,10 @@ public class DemoResource {
     private MathService mathService;
 
     @GetMapping("/hello-world")
-    public ResponseEntity<String> helloWorld() {
-        return ResponseEntity.ok("Hello PLV!");
+    public ResponseEntity<String> helloWorld()
+    {
+
+        return ResponseEntity.ok("Hello World!");
     }
 
     @PostMapping("/math")
